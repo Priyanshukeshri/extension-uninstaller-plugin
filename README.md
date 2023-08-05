@@ -51,7 +51,7 @@ This extension requires Visual Studio Code version 1.60.0 or higher.
 
 * Follow the same steps as mentioned above to remove an extension.
 
-### Keybindings
+### Using the Keybindings
 The following keybindings are available for the "Extension Uninstaller" command:
 
 * Windows/Linux: `Ctrl+u`
